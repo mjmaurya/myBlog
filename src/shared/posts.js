@@ -23,10 +23,10 @@ export const POSTS=[{
     `
 },
 {
-    slug:"react-article",
-    title:"Getting started with React",
+    slug:"react-articleff",
+    title:"Getting started with React Advanced",
     image:"https://source.unsplash.com/featured/?book",
-    category:["coding","ML","react"],
+    category:["xyz","ML","mn"],
     content:
     `
     As its official tagline states, React is a library for building user interfaces.
@@ -47,10 +47,10 @@ export const POSTS=[{
     `
 },
 {
-    slug:"react-article",
-    title:"Getting started with React",
+    slug:"react-articleml",
+    title:"Getting started with React Beginer",
     image:"https://source.unsplash.com/featured/?web",
-    category:["coding","ML","react"],
+    category:["feeb","eh","erhh"],
     content:
     `
     As its official tagline states, React is a library for building user interfaces.
@@ -71,7 +71,7 @@ export const POSTS=[{
     `
 },
 {
-    slug:"react-article",
+    slug:"react-article-jd",
     title:"Getting started with React",
     image:"https://source.unsplash.com/featured/?mouse",
     category:["coding","ML","react"],
